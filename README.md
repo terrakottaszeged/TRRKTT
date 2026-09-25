@@ -1,0 +1,2 @@
+# TRRKTT
+Terrakotta fuvarnapló — mobiloldal
